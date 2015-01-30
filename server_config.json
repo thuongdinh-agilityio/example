@@ -1,0 +1,8 @@
+{
+	"django-chef-example": {
+      	"host": "104.236.238.102",
+      	"user": "root",
+      	"node": "allin"
+  	},
+  	"dev_servers": ["django-chef-example"]
+}
